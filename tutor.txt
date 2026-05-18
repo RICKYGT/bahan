@@ -1,0 +1,2 @@
+Copy folder service.d to
+/data/adb/
