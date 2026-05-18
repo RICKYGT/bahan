@@ -1,2 +1,25 @@
 Copy folder service.d to
 /data/adb/
+
+
+
+
+####
+HMA OSS
+- Enable Hide
+- Enable Invert Activity
+- Invisible APP
+(Choose riski app)
+-Applied app
+(target app)
+
+####
+aPatch
+- Zygisk Next (1.3.4)
+- Zygisk Assistant (1.3.4)
+- NoHello (0.0.7)
+- Zygisk LSposed (1.9.2)
+- TS (1.4.1)
+- TS Add On (4.1)
+- Integrity Box (35)
+- Anti SafetyCore (1.3.0)
